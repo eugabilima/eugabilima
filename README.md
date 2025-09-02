@@ -1,4 +1,4 @@
-<h2 align="left">Olá me chamo Gabriela 👾<br><br>📚 Estudante de ADS no Senac, transformando ideias em interfaces  <br>🔧 Gosto de trabalhar com Desenvolvimento de interfaces, Design e Figma  <br>🎨 Entre design e programação, buscando sempre a melhor experiência  <br>🌍 Criando soluções que unem tecnologia e impacto</h2>
+<h2 align="left">Olá me chamo Gabriela 👾<br><br>📚 Estudante no Segundo Grau de ADS no Senac <br>🔧 Gosto de trabalhar com Desenvolvimento de interfaces, Design e Figma  <br>🎨 Entre design e programação, buscando sempre a melhor experiência</h2>
 
 ###
 
