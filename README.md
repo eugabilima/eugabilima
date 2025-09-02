@@ -36,7 +36,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/eugabilima/eugabilima/output/snake.svg" alt="Snake animation" />
 
 ###
 
