@@ -1,4 +1,4 @@
-<h2 align="left">📚 Gabi | Estudante de ADS no Senac, apaixonada por transformar ideias em interfaces  <br>🔧 Gosto de trabalhar com **Desenvolvimento de Interfaces, Design e Figma**  <br>🎨 Entre design e programação, buscando sempre a melhor experiência  <br>🌍 Criando soluções que unem tecnologia e impacto</h2>
+<h2 align="left">📚 Gabi | Estudante de ADS no Senac, apaixonada por transformar ideias em interfaces  <br>🔧 Gosto de trabalhar com Desenvolvimento de Interfaces, Design e Figma  <br>🎨 Entre design e programação, buscando sempre a melhor experiência  <br>🌍 Criando soluções que unem tecnologia e impacto</h2>
 
 ###
 
