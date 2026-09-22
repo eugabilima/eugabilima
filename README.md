@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Oiii, me chamo Gabriela 👾 | Desenvolvedora em formação - Senac Paulista 3° ano | Interesse em analise de dados, design (UX/UI) e desenvolvimento</h2>
+<h2 data-importer="text" align="left">Oiii, me chamo Gabriela 👾 | Desenvolvedora em formação - Senac Paulista 3° ano | Interesse em analise de dados, gestão de TI design (UX/UI) e comunicação</h2>
 
 ###
 
